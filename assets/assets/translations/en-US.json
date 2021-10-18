@@ -1,0 +1,20 @@
+{
+    "song": "MP3 Songs",
+    "singer": "Singers",
+    "hotsong": "Hot Songs",
+    "artist": "Artists",
+    "account": "Account",
+    "album": "Albums",
+    "languageen": "English Language",
+    "languagemy": "Myanmar Language",
+    "langtitle": "Change Language (Selected English Language)",
+    "login": "Login",
+    "createaccount": "Create Account",
+    "changepassword": "Change Password",
+    "profile": "Profile",
+    "email": "Email",
+    "password": "Password",
+    "confirmpassword": "Confirm Password",
+    "curpassword": "Current Password",
+    "newpassword": "New Password"
+}
